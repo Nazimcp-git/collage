@@ -13,7 +13,7 @@ const programsData = [
                 date: "Sept 28, 2023",
                 image: "img/p4.jpg", 
                 category: "Event",
-                desc: "Annual gathering celebrating the Prophet's birthday with various cultural programs."
+                desc: "All Kerala Mushara Contest for Islamic Education Centers. 49 Teams Were Participate in the program."
             },
             {
                 id: 3,
@@ -21,15 +21,15 @@ const programsData = [
                 date: "March 10, 2024",
                 image: "img/p3.jpg",
                 category: "Academic",
-                desc: "Honoring top performers with Nishan Student Fellowships."
+                desc: "3rd Darul Huda Zonal Debating Championship hosted under Nadia Vallappzuha"
             },
              {
                 id: 4,
-                title: "Thangal Seminar",
+                title: "Anugrheedam - Thangal Seminar",
                 date: "April 05, 2024",
                 image: "img/p2.jpg",
                 category: "Social",
-                desc: "NADIA volunteers visiting border areas of Palakkad for educational outreach."
+                desc: "Academic Seminar in the Topic of Thangal's in Kerala. Special Guest Mueen Hudawi Malayamma."
             },
              {
                 id: 5,
@@ -37,7 +37,7 @@ const programsData = [
                 date: "Ongoing",
                 image: "img/p7.jpg",
                 category: "Charity",
-                desc: "Supporting the Kite Rohingya Special Refugee School in Hyderabad."
+                desc: "Cultural Art Fest Which held in every year due rabeeul avval month. The program have various creative competitions."
             },
             {
                 id: 6,
@@ -45,6 +45,6 @@ const programsData = [
                 date: "May 2024",
                 image: "img/p6.jpg",
                 category: "Admission",
-                desc: "Selecting the new batch of brilliant minds for the academic year."
+                desc: "Celebrating 1500th Rabeeul Avval Thorugh Diffrent Programs like Roadshow, Dua Cermony."
             }
         ];
